@@ -25,6 +25,8 @@ ul {
   justify-content: space-between;
   height: calc(100vh - 2px);
   margin: auto;
+  max-width: 599px;
+  border: 2px solid #110d0d;
 }
 
 header {
